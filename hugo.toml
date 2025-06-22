@@ -2,12 +2,6 @@ baseURL = 'https://canting2002.github.io/'
 languageCode = 'en-us'
 title = 'wct'
 theme = 'testa'
-
- [markup]
-  [markup.highlight]
-    codeFences = true   # 启用代码块
-    guessSyntax = true  # 自动识别语言
-    style = "monokai"   # 选择高亮样式（如 monokai、dracula 等）
     
 [caches]
   [caches.images]
