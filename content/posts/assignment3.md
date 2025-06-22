@@ -24,20 +24,6 @@ draft: false
     ```
 4. Wrote and tested the following Python script:
 
-    ```python
- from openai import OpenAI
- client = OpenAI(
-  api_key="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"
- )
- completion = client.chat.completions.create(
-  model="gpt-4o-mini",
-  store=True,
-  messages=[
-    {"role": "user", "content": "write a haiku about ai"}
-  ]
- )
- print(completion.choices[0].message);
-
-    ```
+![python code 3-1](/images/a3-1.png)
 
 #### 1.3 Output Example
