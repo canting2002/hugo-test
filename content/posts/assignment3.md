@@ -24,6 +24,6 @@ draft: false
     ```
 4. Wrote and tested the following Python script:
 
-![python code 3-1](/images/a3-1.png)
+![python code 3-1](/images/a3-1.PNG)
 
 #### 1.3 Output Example
