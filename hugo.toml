@@ -2,7 +2,7 @@ baseURL = 'https://canting2002.github.io/'
 languageCode = 'en-us'
 title = 'wct'
 theme = 'ananke'
-paginate = 3  
+paginate = 1  
 
 [caches]
   [caches.images]
